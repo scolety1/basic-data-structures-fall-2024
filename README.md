@@ -1,6 +1,6 @@
 # Basic Data Structures — Fall 2024
 
-A collection of Java course exercises uploaded by Spencer Colety. Keep this as one browsable archive rather than many tiny repositories.
+My Java coursework from Fall 2024, covering linked lists, queues, recursion and sorting.
 
 ## Where to start
 
@@ -17,8 +17,10 @@ java -cp build/demo nov08.SortingAlgorithmDemo
 
 Compilation and the sample program completed successfully. The runnable demo uses recursive bubble sort. The adjacent iterative variant has an incorrect inner-loop bound and is not endorsed as correct. Empty-array behavior is not validated.
 
-## Contribution and reuse
+## About this archive
 
-The Git history records a bulk upload by `scolety1`, which establishes collection stewardship but does not distinguish student-authored methods from instructor starter code, examples or teammate work. Existing source credits remain authoritative. This archive should not be represented as wholly original or independently hand-coded without file-level confirmation.
+My early Java coursework, developed primarily by writing and debugging code directly. Course examples and starter code retain their original attribution.
 
-No new assignment solutions or instructor materials were added for this documentation update. Course restrictions and third-party rights still apply; public availability is not a blanket reuse license. This README was prepared with AI assistance. The exercise source was left unchanged.
+These exercises were originally developed and kept on my computer, then uploaded together in November 2026. The recent Git history reflects that upload, not when I wrote the coursework. Original lab and project folders are retained as separate exercises.
+
+README presentation was updated with AI assistance; exercise source is unchanged.
